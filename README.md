@@ -12,4 +12,9 @@
 ## Housekeeping
   * Cleaned data can be found in the [Resources](https://github.com/StanJohn04/crowdfunding_ETL/tree/main/Resources) folder
   * All SQL statements for creating the DataBase, select statements to verify data, and the jupyter notebook used to clean the data can be found in the [Crowdfunding folder](https://github.com/StanJohn04/crowdfunding_ETL/tree/main/Crowdfunding)
+
+  * ERD for Crowdfunding DataBase
+  
+  ![image](https://github.com/StanJohn04/crowdfunding_ETL/assets/121142680/727b46c8-9cfc-4384-9161-0b6a0e82295a)
+
     
