@@ -3,7 +3,8 @@
 ## Background
   *  Practice building an ETL pipline using Python, Pandas, and Python dictionary methods.
   *  A successful project will do the following:
-      * Create Category and Subcategory DataFrames
+    * Extract data from large excel file into smaller, seperate csv files:
+      * Create Category and Subcategory DataFrame
       * Create Campaign DataFrame
       * Create Contacts DataFrame
       * Use cleaned data to create Crowdfunding Database in PostgreSQL
